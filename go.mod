@@ -1,4 +1,4 @@
-module github.com/caddy-dns/template
+module github.com/caddy-dns/he
 
 go 1.16
 
